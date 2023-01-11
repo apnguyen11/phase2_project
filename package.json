@@ -9,7 +9,7 @@
   "author": "Andy",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.19.5",
+    "knex": "^2.4.0",
     "mustache": "^3.1.0",
     "nodemon": "^1.19.3",
     "pg": "^7.12.1"
